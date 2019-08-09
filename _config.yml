@@ -23,13 +23,14 @@ twitter_username: talentdmrripley
 linkedin_username: cripley
 instagram_username: talentdmrripley
 youtube_username: cbr600rrip
-truncatewords: 20
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+include:
+  - "_img"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
