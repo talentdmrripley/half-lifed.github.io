@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "How this started"
+date:   2019-08-07 21:24:03 -0700
+categories: jekyll update
+---
+How this started
+=================
+
+Catching inspiration by the tail is nearly impossible. Inspiration grabs us by the neck whenever it wants, randomly, and unexpectedly. Inspiration's elixir is, well, anything. Half-lifed is the culmination of a lot of thinking, sorting out what it means to be 50, your life half lived, finding yourself and being comfortable with where self is found. Done a lot of thinking, doing a lot of thinking. The thinking part never ends. Never. Eventually the doing happens, the inspiration.
