@@ -11,4 +11,4 @@ I'm what you'd call a classic "dabbler," just dangerous enough to build, write c
 
 Ruby on Rails was next. "Make a blog in less than five minutes." I was hooked, so I dabbed a bit more. Again, not proud of anything. Just proud of pushing myself into new methods and various ways to manage and deploy content.
 
-[Watch: Make a blog] https://www.youtube.com/watch?v=JaL9ul17kx00
+[Watch: Make a blog] (https://www.youtube.com/watch?v=JaL9ul17kx00)
