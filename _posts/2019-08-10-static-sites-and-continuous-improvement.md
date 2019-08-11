@@ -15,6 +15,5 @@ Ruby on Rails was next. "Make a blog in less than 15 minutes." I was hooked, so 
 
 Building websites for the masses is fun, but a website can be useful for smaller groups and even individuals. While my wife was coaching club volleyball, her biggest need from me was gathering stats. Paper stats are great but leave a lot to be desired for quick analysis. We needed an application for tracking the team, players, games, serves, passes, blocks, and kills. Ruby on Rails to the rescue. 
 
-I was the developer and end user. This scenario drove the largest collective chunk of learning code. The vision had to match the code. Form and function were aligned. The application is hideous looking. And beautiful at what it does — track volleyball game stats.
+I was the developer and end user. This scenario drove the largest collective chunk of learning about how the code works. The vision had to match the code. Form and function were aligned. The application is hideous looking. And beautiful at what it does — track volleyball game stats.
 
- 
