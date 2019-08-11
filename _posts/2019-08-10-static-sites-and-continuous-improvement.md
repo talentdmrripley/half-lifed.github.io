@@ -9,7 +9,12 @@ Being 50, the web has intrigued me for decades. The tools have evolved and made 
 
 I'm what you'd call a classic "dabbler," just dangerous enough to build, write content, and launch sites. Nothing to be proud of, but proud of trying, learning, and stretching my skills if possible. Learning the relationship between databases like MySQL and and PHP. This after building page after page after link after link to make a cohesive content experience for web "surfers." PHP was my introduction to a rudimentary CMS (content management system). The sites became more functional in less time while content became easily created and changed if necessary. Wordpress became and thing and—WOW—here's this team of 100s really pushing the envelope of what's possible for content on a screen. Why reinvent the wheel every time, I thought. 
 
-Ruby on Rails was next. "Make a blog in less than five minutes." I was hooked, so I dabbed a bit more. Again, not proud of anything. Just proud of pushing myself into new methods and various ways to manage and deploy content.
+Ruby on Rails was next. "Make a blog in less than 15 minutes." I was hooked, so I dabbed a bit more. Again, not proud of anything. Just proud of pushing myself into new methods and various ways to manage and deploy content.
 
 [Watch: Make a blog](https://www.youtube.com/watch?v=Gzj723LkRJY)
 
+Building websites for the masses is fun, but a website can be useful for smaller groups and even individuals. While my wife was coaching club volleyball, her biggest need from me was gathering stats. Paper stats are great but leave a lot to be desired for quick analysis. We needed an application for tracking the team, players, games, serves, passes, blocks, and kills. Ruby on Rails to the rescue. 
+
+I was the developer and end user. This scenario drove the largest collective chunk of learning code. The vision had to match the code. Form and function were aligned. The application is hideous looking. And beautiful at what it does — track volleyball game stats.
+
+ 
