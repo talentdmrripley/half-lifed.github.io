@@ -17,3 +17,6 @@ Building websites for the masses is fun, but a website can be useful for smaller
 
 I was the developer and end user. This scenario drove the largest collective chunk of learning about how the code works. The vision had to match the code. Form and function were aligned. The application is hideous looking. And beautiful at what it does — track volleyball game stats.
 
+At work, our current site [metergroup.com](https://www.metergroup.com) is built on Wordpress. We have a front end developer working on it, plus team members like myself adding content. Our next site is a radical departure from Wordpress. It's going to be a static site.
+
+It's like we've come full circle in a way. Every page intentioned. Every image purposed.
