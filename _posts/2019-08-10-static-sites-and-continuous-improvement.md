@@ -4,6 +4,7 @@ title:  "Static sites and continous improvement"
 date:   2019-08-10 08:01:00 -0700
 categories: jekyll update
 comments: true
+
 ---
 
 Being 50, the web has intrigued me for decades. The tools have evolved and made things easier to build and deploy sites faster than ever. I'm not a developer, though. That's a skillset that's always eluded my time and commitment to become efficient and confident at coding. 
